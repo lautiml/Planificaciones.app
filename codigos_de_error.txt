@@ -1,0 +1,5 @@
+200 = la solicitud ha tenido éxito
+201 = solicitud que se procesó correctamente y creó o devolvió un recurso en el proceso
+400 = error general, no se puede procesar la solicitud del cliente
+404 = el sitio web es comunicable pero la URL no está disponible (not found)
+500 = algo esta mal con el servidor web
