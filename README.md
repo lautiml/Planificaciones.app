@@ -9,25 +9,20 @@
 Trabajo Práctico N°4 - **_SCM – Herramientas de SCM_**
 
 **Docentes:** **_Ing. Laura Covaro, Ing. Mickaela Crespo_**, **_Ing._** **_Constanza Garnero_**
-
 | **CURSO 4K4 – Integrantes Grupo “5”** |     |     |
-| --- |     |     | --- | --- |
+| --- | --- | --- |
 | Carabelli Farías, Federico | **71691** | <carabelli.farias.federico@gmail.com> |
-| --- | --- | --- |
-| Morel Quirno, Tobias | **000** | <tobiasmorelq@gmail.com> |
-| --- | --- | --- |
+| Morel Quirno, Tobias | **87428** | <tobiasmorelq@gmail.com> |
 | Bertero, Rodrigo | **74901** | <berterorodrigo@gmail.com> |
-| --- | --- | --- |
 | Cortez Lorenzo, Martina | **84580** | <martinacortezlorenzo@gmail.com> |
-| --- | --- | --- |
 | Cioccatto Malano, Sabrina | **90287** | <cioccattobelen@gmail.com> |
-| --- | --- | --- |
 | Guevara Denis Nahuel | **68160** | <denis.nahuel.guevara@gmail.com> |
-| --- | --- | --- |
-| Molina Castillo, Lautaro<br><br>Ceballos, Matias<br><br>Andermatten Alexis Ariel<br><br>Surghy, Nicolás | **94658**<br><br>**71660**<br><br>**70287**<br><br>**000** | <lautaro.molina.7330@gmail.com><br><br><maticeba98@gmail.com><br><br><alexisaandermatten@gmail.com> |
-| --- | --- | --- |
-|     |     |     |
-| --- | --- | --- |
+| Molina Castillo, Lautaro | **94658** | <lautaro.molina.7330@gmail.com> |
+| Ceballos, Matias| **71660** | <maticeba98@gmail.com> | 
+| Andermatten, Alexis Ariel | **70287** | <alexisaandermatten@gmail.com> |
+| Surghy, Nicolás |  |  |
+
+
 
 Fecha de entrega: 01/04/2025
 
@@ -100,47 +95,26 @@ EcoHarmonyPark
 | **Ítem de configuración** | **Extensión** | **Abreviatura** | **Regla de nombrado** | **Ubicación** |
 | --- | --- | --- | --- | --- |
 | Código fuente | HTML, JSX, CSS |     | &lt;<NombreCódigo&gt;>.&lt;<Extensión&gt;> | //UTNFRC_ISW_2025_GRUPO5/Producto/Codigo |
-| --- | --- | --- | --- | --- |
 | Logos | PNG | LOGO | &lt;<Abreviatura&gt;>\_&lt;<NombreLogo&gt;>.png | //UTNFRC_ISW_2025_GRUPO5/Producto/UX/UI |
-| --- | --- | --- | --- | --- |
 | Guías de estilo | PDF | GE  | &lt;<Abreviatura&gt;>\_&lt;<NombreGuia&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/UX/UI |
-| --- | --- | --- | --- | --- |
 | Ejecutable de la app | APK | EJEC | &lt;<Abreviatura&gt;>\_&lt;<NombreEjecutable&gt;>\_&lt;<Versión&gt;>.apk | //UTNFRC_ISW_2025_GRUPO5/Producto/Codigo |
-| --- | --- | --- | --- | --- |
 | Documentos de diseño | PDF | DOC-DISEÑO | &lt;<Abreviatura&gt;>\_&lt;<NombreDocumento&gt;>\_&lt;<Versión&gt;.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
-| --- | --- | --- | --- | --- |
 | Manuales de uso | PDF | MANUAL_USO | &lt;<Abreviatura&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
-| --- | --- | --- | --- | --- |
-| Pipelines de CI/CD |     |     | ci_cd_&lt;version&gt;.yaml | //UTNFRC_ISW_2025_GRUPO5/Producto/infra |
-| --- | --- | --- | --- | --- |
+| Pipelines de CI/CD |     |     | ci_cd_&lt;<Versión&gt;>.yaml | //UTNFRC_ISW_2025_GRUPO5/Producto/infra |
 | Documento de requerimientos | PDF | REQ | &lt;<Abreviatura&gt;>\_&lt;<NombreTipoRequerimiento&gt;>\_&lt;<Versión<&gt;.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
-| --- | --- | --- | --- | --- |
-| Reglas de negocio | PDF | REG-NEG | &lt;<Abreviatura&gt;>\_&lt;<NombreReglaNegocio&gt;>\_&lt;<versión&gt;.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
-| --- | --- | --- | --- | --- |
+| Reglas de negocio | PDF | REG-NEG | &lt;<Abreviatura&gt;>\_&lt;<NombreReglaNegocio&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
 | Log de decisiones | PDF | DEC-LOG | &lt;<Abreviatura&gt;>\_&lt;Versión&gt;.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
 | Base de Datos | SQL | DB  | &lt;<Abreviatura&gt;>\_&lt;<NombreBaseDatos&gt;>\_&lt;<Versión&gt;>.sql | //UTNFRC_ISW_2025_GRUPO5/Producto/database |
-| --- | --- | --- | --- | --- |
 | Casos de Prueba | JSON | TEST | &lt;<Abreviatura&gt;>\_&lt;<NombreFuncionalidad&gt;>.json | //UTNFRC_ISW_2025_GRUPO5/Producto/test |
-| --- | --- | --- | --- | --- |
 | Documentación de biblioteca de terceros | PDF | LIBRERIA | &lt;<Abreviatura&gt;>\_&lt;NombreLibreria&gt;.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
-| --- | --- | --- | --- | --- |
-| Historias de usuario | PDF | HIST-USUARIO | &lt;<Abreviatura&gt;>\_&lt;<NombreHistoriaDeUsuario&gt;>\_&lt;<versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
-| Riesgos | PDF | RIESGO | &lt;<Abreviatura&gt;>\_&lt;<NombreRiesgo&gt;>\_&lt;<versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
+| Historias de usuario | PDF | HIST-USUARIO | &lt;<Abreviatura&gt;>\_&lt;<NombreHistoriaDeUsuario&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
+| Riesgos | PDF | RIESGO | &lt;<Abreviatura&gt;>\_&lt;<NombreRiesgo&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
 | Métricas | PDF | METR | &lt;<Abreviatura&gt;>\_&lt;<NombreTipoMetrica&gt;>\_&lt;<Versión&gt;>.xlsx | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
-| Asignación de recursos | XLSX | ASIG-REC | &lt;<Abreviatura&gt;>\_&lt;versión&gt;.xlsx | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
-| Visión | PDF |     |     | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
-| Casos de uso | PDF |     |     | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
-| Backlog | PDF |     |     | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
-| --- | --- | --- | --- | --- |
-| Arquitectura | PDF |     |     | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
-| --- | --- | --- | --- | --- |
+| Asignación de recursos | XLSX | ASIG-REC | &lt;<Abreviatura&gt;>\_&lt;Versión&gt;.xlsx | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
+| Visión | PDF |     | vision_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
+| Casos de uso | PDF | CU  | &lt;<Abreviatura&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
+| Backlog | PDF |     | backlog_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Proyecto/docs |
+| Arquitectura | PDF | ARQ | &lt;<Abreviatura&gt;>\_&lt;<Versión&gt;>.pdf | //UTNFRC_ISW_2025_GRUPO5/Producto/docs |
 
 **Línea base:**
 
@@ -155,40 +129,19 @@ Se eligió como línea base cada vez que se termina e incorpora un nuevo requeri
 | **Término** | **Definición** |
 | --- | --- |
 | &lt;Abreviatura&gt; | Cadena de caracteres acortada para referenciar el tipo de ítem de configuración. |
-| --- | --- |
 | &lt;Versión&gt; | Número de versión del ítem de configuración, que utilizamos para diferenciar cambios en los mismos. |
-| --- | --- |
 | &lt;Extensión&gt; | Algunos ítems pueden tener distintas extensiones o tipos de archivo. Abreviatura del tipo de archivo que constituye el ítem de configuración. |
-| --- | --- |
 | &lt;NombreCódigo&gt; | Nombre significativo que describe brevemente el contenido del ítem de configuración código. |
-| --- | --- |
 | &lt;NombreLogo&gt; | Nombre que describe el contenido de un ítem de configuración del tipo Logo. |
-| --- | --- |
 | &lt;NombreGuia&gt; | Nombre que describe brevemente a los temas de un ítem de configuración del tipo Guía de Estilo. |
-| --- | --- |
 | &lt;NombreEjecutable&gt; | Nombre que hace referencia al contenido de un ítem de configuración Ejecutable. |
-| --- | --- |
 | &lt;NombreDocumento&gt; | Nombre que describe brevemente qué documento de diseño contiene un ítem de configuración del tipo Documento de diseño. |
-| --- | --- |
 | &lt;NombreTipoRequerimiento&gt; | Nombre que describe cuál es el tipo de requerimiento descrito en un ítem de configuración del tipo Documento de requerimientos. |
-| --- | --- |
 | &lt;NombreReglaNegocio&gt; | Nombre que refiere a los detalles de una regla de negocio de un ítem de configuración del tipo Regla de negocio. |
-| --- | --- |
 | &lt;NombreBaseDatos&gt; | Nombre que describe qué tipo de datos contiene una base de datos de ítem de configuración del tipo Base de datos. |
-| --- | --- |
 | &lt;NombreFuncionalidad&gt; | Nombre que describe la funcionalidad que busca probar el caso de prueba de un ítem de configuración del tipo Caso de Prueba. |
-| --- | --- |
 | &lt;NombreLibreria&gt; | Nombre que hace referencia a la librería que se utilizará |
-| --- | --- |
 | &lt;NombreHistoriaDeUsuario&gt; | Nombre de una User Story que determina el propósito de la misma, que constituye un ítem de configuración del tipo Historia de Usuario. |
-| --- | --- |
 | &lt;NombreRiesgo&gt; | Nombre que haga una referencia que describa brevemente en qué consiste, para un ítem de configuración del tipo Riesgo. |
-| --- | --- |
 | &lt;NombreTipoMetrica&gt; | Nombre que comunica qué tipo de métrica se contempla en el ítem de configuración (costo, alcance, etc.), para el tipo de ítem de configuración Métrica. |
-| --- | --- |
 | &lt;Funcionalidad&gt; | Hace referencia a la funcionalidad de la aplicación que se esta probando en un test |
-| --- | --- |
-|     |     |
-| --- | --- |
-|     |     |
-| --- | --- |
